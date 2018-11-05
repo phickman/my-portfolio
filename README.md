@@ -25,6 +25,8 @@ install python modules
 pip install boto3
 pip install ipython
 
+I've had issues with git/ssh...
+
 ## Technologies Used
 
 Git
